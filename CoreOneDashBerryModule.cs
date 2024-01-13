@@ -1,19 +1,17 @@
-﻿using System;
+﻿namespace Celeste.Mod.CoreOneDashBerry;
 
-namespace Celeste.Mod.CoreOneDashBerry {
-    public class CoreOneDashBerryModule : EverestModule {
-        
-        public static CoreOneDashBerryModule Instance;
+public class CoreOneDashBerryModule : EverestModule {
 
-        public CoreOneDashBerryModule() {
-            Instance = this;
-        }
+    public static CoreOneDashBerryModule Instance;
 
-        public override void Load() {
-        }
-
-        public override void Unload() {
-        }
-
+    public CoreOneDashBerryModule() {
+        Instance = this;
     }
+
+    public override void Load() {
+    }
+
+    public override void Unload() {
+    }
+
 }

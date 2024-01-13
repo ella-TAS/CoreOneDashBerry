@@ -1,6 +1,6 @@
 ﻿- Name: CoreOneDashBerry
   Version: 1.0.0
-  DLL: bin/Debug/net452/CoreOneDashBerry.dll
+  DLL: bin/CoreOneDashBerry.dll
   Dependencies:
     - Name: Everest
-      Version: 1.3164.0
+      Version: 1.4465.0
