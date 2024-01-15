@@ -32,6 +32,7 @@
                 "a",
                 "${workspaceFolder}/CoreOneDashBerry.zip",
                 "${workspaceFolder}/bin",
+                "${workspaceFolder}/Graphics",
                 "${workspaceFolder}/everest.yaml"
             ],
             "type": "process",
